@@ -35,4 +35,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bongakonke-langa&show_icons=true&locale=en" alt="bongakonke-langa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bongakonke-langa&" alt="bongakonke-langa" /></p>
+<p align="center">
+  <img src="<YOUR_IMAGE_URL>" alt="Custom Background" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bongakonke-langa&" alt="bongakonke-langa" />
+</p>
