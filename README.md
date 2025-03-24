@@ -95,4 +95,3 @@ const myJourney = {
   ],
   goal: "Become a proficient developer while maintaining clean code practices"
 }
-<table> <tr> <td width="50%"> <h4>To-Do App</h4> <img src="https://via.placeholder.com/400x250/48b1bf/ffffff?text=To-Do+App" alt="To-Do App"> <p>Simple task management application</p> <a href="#">View Project</a> </td> <td width="50%"> <h4>Weather Widget</h4> <img src="https://via.placeholder.com/400x250/06beb6/ffffff?text=Weather+App" alt="Weather Widget"> <p>API-based weather application</p> <a href="#">View Project</a> </td> </tr> </table><p align="center"> <em>"The expert in anything was once a beginner." - Helen Hayes</em> </p>
