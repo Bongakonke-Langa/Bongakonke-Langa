@@ -76,22 +76,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=600&lines=console.log(%22Hello%2C%20World!%22);+%2F%2F+Junior+Software+Developer;const+growth+%3D+learning+%2B+building;while(!succeed)+%7B+tryAgain()+%7D" alt="Typing Animation">
 </div>
-
----
-
-### 🌱 Current Learning Journey:
-```javascript
-const myJourney = {
-  currentFocus: "JavaScript Fundamentals",
-  learningResources: [
-    "FreeCodeCamp",
-    "The Odin Project",
-    "MDN Web Docs"
-  ],
-  projects: [
-    "Building small React apps",
-    "Algorithm challenges",
-    "Open source contributions"
-  ],
-  goal: "Become a proficient developer while maintaining clean code practices"
-}
