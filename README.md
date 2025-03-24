@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bongakonke Langa</h1>
-<h3 align="center">Full Stack Developer & UI/UX Designer</h3>
+<h3 align="center">Junior Software Developer & UI Enthusiast</h3>
 
 <p align="center" style="background: linear-gradient(135deg, #06beb6 0%, #48b1bf 100%); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=bongakonke-langa&label=Profile%20Views&color=0e75b6&style=flat" alt="bongakonke-langa" />
